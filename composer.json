@@ -1,0 +1,14 @@
+{
+  "name": "hello-world-kendo",
+  "description": "A simple Hello World project using Kendo UI and PHP.",
+  "require": {
+    "telerik/kendo-ui": "^2023.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
