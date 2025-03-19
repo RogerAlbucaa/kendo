@@ -52,11 +52,11 @@ http://localhost/hello-world-kendo/public/
 
 ## API
 
-http://www.omdbapi.com/?t=Star+Wars&apikey=39ac6287
+http://www.omdbapi.com/?t=Star+Wars&apikey=your_api_key_here
 
 ## API Id
 
-http://www.omdbapi.com/?i=tt3896198&apikey=39ac6287
+http://www.omdbapi.com/?i=tt3896198&apikey=your_api_key_here
 
 ## Json Format Result
 
