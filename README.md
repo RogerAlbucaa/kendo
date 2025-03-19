@@ -24,6 +24,10 @@ hello-world-kendo
 2. **Composer**: Install Composer to manage project dependencies.
 3. **Web Server**: Use a web server like Apache or Nginx to serve the application.
 
+## XAMPP Information
+
+XAMPP is a free and open-source software package that allows you to create a local web server for testing purposes.
+
 ## Setup Instructions
 
 1. Clone the repository or create a new directory for the project.
